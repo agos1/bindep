@@ -1,4 +1,4 @@
-# Bindep
+#  Bindep
 It is a grunt tool for binding bower or local dependencies to your source code.
 It introduces few little concepts for its working:
    <ul>
